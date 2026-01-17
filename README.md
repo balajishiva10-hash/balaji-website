@@ -3,8 +3,7 @@
 A pixel-perfect YouTube homepage UI clone built using **pure HTML and CSS**.  
 This project replicates the layout, spacing, typography, and responsive behavior of YouTube’s homepage — without using JavaScript or any frameworks.
 
-🔗 **Live Demo**  
-https://lohithp2804-star.github.io/lohith-youtube-ui-clone/
+🔗 **Live Demo** 
 
 ---
 
