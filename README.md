@@ -47,7 +47,7 @@ This project was built to:
 **S.BALAJI**  
 Frontend Developer & CS Student  
 
-GitHub: https://github.com/lohithp2804-star  
+GitHub: https://github.com/balajishiva10-hash/balaji-website  
 
 ---
 
