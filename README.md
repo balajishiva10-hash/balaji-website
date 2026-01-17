@@ -1,4 +1,4 @@
-# Lohith – YouTube UI Clone 
+# Balaji – YouTube UI Clone 
 
 A pixel-perfect YouTube homepage UI clone built using **pure HTML and CSS**.  
 This project replicates the layout, spacing, typography, and responsive behavior of YouTube’s homepage — without using JavaScript or any frameworks.
@@ -44,7 +44,7 @@ This project was built to:
 
 ##  Author
 
-**P. Lohith**  
+**S.BALAJI**  
 Frontend Developer & CS Student  
 
 GitHub: https://github.com/lohithp2804-star  
