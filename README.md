@@ -32,13 +32,6 @@ This project was built to:
 - Practice frontend UI replication
 - Improve CSS layout, positioning, and responsiveness
 - Showcase real-world frontend skills on GitHub & LinkedIn
-
----
-
-##  Preview
-
-> Open the live demo to see the full UI clone.
-
 ---
 
 ##  Author
